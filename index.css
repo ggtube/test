@@ -4,8 +4,7 @@ body {
     box-sizing: border-box;
     width: 100vw;
     height: 100vh;
-    background: #000;
-    color: #000;
+    background: #ffffff;
     overflow: hidden;
 }
 
@@ -16,7 +15,8 @@ body {
     vertical-align: middle;
     line-height: 100vh;
     overflow: hidden;
-    color: #fff;
+    color: #000000;
+    font-size: 16px;
 }
 
 .root {
